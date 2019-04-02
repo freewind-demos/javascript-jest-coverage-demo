@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest && open ./coverage/lcov-report/index.html"
   },
   "devDependencies": {
     "jest": "24.5.0"
